@@ -1,0 +1,20 @@
+﻿Build started 1/14/2014 16:31:23.
+     1>Project "H:\lab6_1\lab6_1\lab6_1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\lab6_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt lab6_1.c
+         lab6_1.c
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\lab6_1\Debug\lab6_1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab6_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\lab6_1\Debug\lab6_1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\lab6_1\Debug\lab6_1.lib" /MACHINE:X86 Debug\lab6_1.obj
+         lab6_1.vcxproj -> H:\lab6_1\Debug\lab6_1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\lab6_1\Debug\lab6_1.exe;#1" /manifest Debug\lab6_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\lab6_1.unsuccessfulbuild".
+         Touching "Debug\lab6_1.lastbuildstate".
+     1>Done Building Project "H:\lab6_1\lab6_1\lab6_1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.32
